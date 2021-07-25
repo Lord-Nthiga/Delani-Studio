@@ -10,7 +10,7 @@ Welcome to Delani studio, we offer all your software  needs that are done in the
 * No need to know any computer knowledge
 * Java run device
 ## Known Bugs
-No bugs 
+* some images may not be displayed in small devices
 ## Technologies Used
 * HTML
 * CSS
