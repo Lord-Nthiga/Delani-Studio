@@ -37,8 +37,13 @@
     font-weight: bold;
 }
 #serv {
+    width: fit-content;
     position: absolute;
     color: white;
     text-align: center;
-    top: 1180px;
+    left: 300px;
+    top: 1160px;
+}
+#port {
+    text-align: center;
 }
