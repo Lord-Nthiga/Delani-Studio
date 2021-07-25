@@ -1,0 +1,44 @@
+#bck1 {
+    
+}
+#D {
+    position: absolute;
+    margin-top: 24px;
+    top: 230px;
+    left: 730px;
+}
+#h1 {
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: whitesmoke;
+    position: absolute;
+    width: auto;
+    top: 410px;
+    left: 500px;
+}
+#p {
+    color: whitesmoke;
+    position: absolute;
+    top: 550px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    left: 390px;
+}
+#clck {
+    position: absolute;
+    top: 820px;
+    left:740px;
+}
+.container1 {
+    text-align: center;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+#serv {
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 1150px;
+}
