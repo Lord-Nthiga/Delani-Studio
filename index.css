@@ -47,6 +47,9 @@
 #port {
     text-align: center;
 }
+#pic0, #pic1, #pic2, #pic3, #pic4, #pic5, #pic6, #pic7 {
+    padding: 20px;
+}
 #form1 {
     text-align: center;
     position: absolute;
