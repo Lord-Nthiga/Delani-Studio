@@ -41,12 +41,38 @@
     left: 300px;
     top: 1160px;
 }
-#port {
-    text-align: center;
+#us {
+    position: absolute;
+    top: 2750px;
+    color: white;
+    right: 730px;
 }
-#pic0, #pic1, #pic2, #pic3, #pic4, #pic5, #pic6, #pic7 {
-    padding: 17px;
+#name {
+    position: absolute;
+    top: 2800px;
+    width: 420px;
+    left: 300px;
 }
-#icons {
-    margin-left: 300px;
+#email {
+    position: absolute;
+    top: 2800px;
+    width: 420px;
+    left: 800px;
 }
+#message {
+    position: absolute;
+    top: 2900px;
+    right: 322px;
+    height: 200px;
+}
+#button {
+    position: absolute;
+    top: 3150px;
+    left: 700px;
+    border: none;
+}
+
+
+
+
+
