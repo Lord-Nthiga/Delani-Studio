@@ -94,11 +94,6 @@
 
 
 
-
-
-. work6 {
-    position: relative;
-}
 .image {
     display: block;
     width: 100%;
@@ -116,7 +111,7 @@
     transition: .5s ease;
     background-color: #008CBA;
   }
-..work6 :hover .overlay {
+.work6 :hover .overlay {
   opacity: 1;
 }
 .text {
@@ -130,6 +125,22 @@
     transform: translate(-50%, -50%);
     text-align: center;
   }
+
+img:hover {
+    filter: brightness(50%);
+}
+.work1, .work2, .work3, .work4, .work5, .work6, .work7, .work8 {
+    position: relative;
+}
+h4  {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    /* display: none; */
+}
+
 
 
 
