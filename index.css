@@ -43,31 +43,31 @@
 }
 #us {
     position: absolute;
-    top: 2750px;
+    top: 2500px;
     color: white;
     right: 730px;
 }
 #name {
     position: absolute;
-    top: 2800px;
+    top: 2580px;
     width: 420px;
     left: 300px;
 }
 #email {
     position: absolute;
-    top: 2800px;
+    top: 2580px;
     width: 420px;
     left: 800px;
 }
 #message {
     position: absolute;
-    top: 2900px;
+    top: 2700px;
     right: 322px;
     height: 200px;
 }
 #button {
     position: absolute;
-    top: 3150px;
+    top: 2950px;
     left: 700px;
     border: none;
 }
@@ -81,19 +81,6 @@
 #product {
     display: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 .image {
     display: block;
     width: 100%;
@@ -129,9 +116,6 @@
 img:hover {
     filter: brightness(50%);
 }
- .work,.work,.work,.work,.work5,.work6,.work7,.work8,{
-    position: relative;
-}
 h4  {
     position: absolute;
     left: 50%;
@@ -139,10 +123,3 @@ h4  {
     transform: translate(-50%, -50%);
     color: white;
 }
-
-
-
-
-
-
-
