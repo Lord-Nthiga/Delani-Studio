@@ -129,7 +129,7 @@
 img:hover {
     filter: brightness(50%);
 }
- .work1,.work2,.work3,.work4,.work5,.work6,.work7,.work8 {
+ .work,.work,.work,.work,.work5,.work6,.work7,.work8,{
     position: relative;
 }
 h4  {
@@ -138,7 +138,6 @@ h4  {
     top: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    display: none;
 }
 
 
